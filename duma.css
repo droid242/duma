@@ -1,5 +1,5 @@
 body {
-  background-image: url(http://droid242.github.com/duma/pic/hatter.jpg);
+  background-image: url(pic/hatter.jpg);
   background-position: top;
   background-repeat: no-repeat;
   margin: 0px 0px 0px 0px;
@@ -53,7 +53,7 @@ div#panel {
 	/*border: solid 1px aqua;*/
 }
 img.gomb {
-	background-image: url(http://droid242.github.com/duma/pic/gomb.png);
+	background-image: url(pic/gomb.png);
 	width: 168px;
 	height: 67px;
 	border: none;
@@ -63,5 +63,5 @@ img.gomb {
 	bottom: 15px;
 }
 img:hover.gomb {
-	background-image: url(http://droid242.github.com/duma/pic/gomb_hover.png);
+	background-image: url(pic/gomb_hover.png);
 }

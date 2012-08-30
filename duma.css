@@ -12,12 +12,12 @@ body {
 
 div.tartalom {
 	position: absolute;
-	margin-top: 50%;
-	margin-left: 50%;
+	margin-top: -250px;
+	margin-left: -480px;
 	width: 960px;
 	height: 500px;
-	top: -250px;
-	left: -480px;
+	top: 50%;
+	left: 50%;
 	/*border: solid 1px aqua;*/
 }
 
@@ -46,8 +46,8 @@ img.nyomd {
 div#panel {
 	position: absolute;
 	top: 101px;
-	left: -350px;
-	margin-left: 50%;
+	left: 50%; /*-350px;*/
+	margin-left: -350px;
 	width: 700px;
 	height: 300px;
 	/*border: solid 1px aqua;*/

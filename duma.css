@@ -65,3 +65,9 @@ img.gomb {
 img:hover.gomb {
 	background-image: url(pic/gomb_hover.png);
 }
+
+img.forkme {
+   position: absolute;
+   top: 0px;
+   left: 0px;
+}

@@ -747,9 +747,6 @@ var Duma = (function() {
     , "LCD monitorom két szabadon választható fehér subpixeljét, 1 db. fekete lyukra cserélem."
     , "Eredeti Bill Gates másodpercek 1000$-os darabáron eladók, vagy légüres térre cserélhetők."
     , "Wikipédia:<br />Bármekkora baromságot is állítasz bizonyítás nélkül, milliók hisznek neked!"
-    , "Kerüld el a nemi erőszakot. Mondj igent!"
-    , "Emlékezz ember! Porból lettél, s pórul jársz..."
-    , "Néztek, mint terrorista a vaklőszerre."
   ];
   
   var last_selected = null;
